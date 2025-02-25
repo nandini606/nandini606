@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🌟 Aspiring AWS & DevOps Engineer | B.Com Graduate | Cloud Enthusiast 🌟<br><br>Hello! I’m Nandini HG, a passionate and dedicated professional with a Bachelor of Commerce from A.V.K College for Women, Hassan. I have recently completed specialized training in AWS and DevOps at Emexo Technologies, where I gained hands-on experience and practical knowledge in cloud computing and DevOps practices.<br><br>I have successfully completed an internship at Techsnippy Pvt Limited, where I applied my skills in real-world projects, enhancing my understanding of cloud infrastructure and deployment processes. My technical expertise includes:<br><br>Version Control: Proficient in GIT for source code management.<br>CI/CD: Experienced with Jenkins for continuous integration and deployment.<br>Build Tools: Familiar with Maven for project management and build automation.<br>Configuration Management: Skilled in Ansible for automating server configuration.<br>Infrastructure as Code: Knowledgeable in Terraform for provisioning and managing cloud infrastructure.<br>Containerization & Orchestration: Proficient in Docker and Kubernetes for container management and orchestration.<br>AWS Services: Hands-on experience with EC2, S3, EFS, EBS, VPC, Route 53, IAM, and RDS.<br>Monitoring & Management: Experienced with CloudWatch, Prometheus, and Grafana for monitoring and performance management.<br>Scripting: Proficient in Python, Bash, and Groovy for automation and scripting tasks.<br>Web Servers: Knowledgeable in Nginx and Apache Tomcat.<br>Agile Methodology: Familiar with SDLC and Agile practices.
 
-<!--
-**nandini606/nandini606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandini-hg-017300276/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandinihg66@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nandini Hg&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nandini Hg&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini Hg&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nandini Hg&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
